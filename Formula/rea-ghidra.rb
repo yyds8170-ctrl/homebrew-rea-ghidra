@@ -8,8 +8,8 @@
 class ReaGhidra < Formula
   desc "Cross-platform installer/orchestrator for Ghidra + rea-agents (noncommercial)"
   homepage "https://github.com/yyds8170-ctrl/rea-ghidra-setup"
-  url "https://github.com/yyds8170-ctrl/rea-ghidra-setup/archive/refs/tags/v4.0.1.tar.gz"
-  sha256 "58238a851b6a65c6efe5b7d41ef85a5bd82c8b96a898a9f7a924f3db4855c129"
+  url "https://github.com/yyds8170-ctrl/rea-ghidra-setup/archive/refs/tags/v4.0.2.tar.gz"
+  sha256 "6b5f9395f60539bcda88c36e5ab5353d978d91dcea6ecc8bef4c763dd7adc703"
   license "PolyForm-Noncommercial-1.0.0"
   head "https://github.com/yyds8170-ctrl/rea-ghidra-setup.git", branch: "main"
 
